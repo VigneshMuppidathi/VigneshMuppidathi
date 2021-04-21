@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wick
+- 👋 Hi, I’m Vignesh
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on projects involving python
